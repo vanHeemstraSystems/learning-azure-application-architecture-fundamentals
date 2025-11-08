@@ -1,12 +1,6 @@
 # 200 - Azure Networking Fundamentals
 
-You’re absolutely right! Networking is fundamental for Cloud Engineering. Let me search for the best Azure networking resources that cover both the fundamentals and Azure-specific implementations.​​​​​​​​​​​​​​​​
-
-Perfect! Let me create a comprehensive networking study guide for you that covers both fundamental networking concepts and Azure-specific networking.​​​​​​​​​​​​​​​​
-
-Excellent! I’ve created a comprehensive Azure Networking Study Guide for you!
-
-[View your Azure Networking Study Guide](computer:///mnt/user-data/outputs/Azure-Networking-Study-Guide.md)
+Networking is fundamental for Cloud Engineering. This is a comprehensive networking study guide for you that covers both fundamental networking concepts and Azure-specific networking.​​​​​​​​​​​​​​​​
 
 ## What’s Included:
 
