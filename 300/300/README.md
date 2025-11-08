@@ -47,7 +47,7 @@ Week-by-week breakdown:
 - **Week 5**: Azure network security (NSGs, firewalls)
 - **Week 6**: Hybrid connectivity (VPN, ExpressRoute)
 - **Week 7**: Real-world scenarios & troubleshooting
-- **Week 8**: **Team Rockstars test preparation** 🎯
+- **Week 8**: **Test preparation** 🎯
 
 Each week includes:
 
